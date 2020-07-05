@@ -1,0 +1,8 @@
+name: TagShopUI
+main: FlavioFoxy/Tag/Main
+version: 1.0
+api: 3.14.0
+author: FlavioFoxy
+commands:
+  tagshop:
+    description: TagShopUI
